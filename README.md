@@ -13,3 +13,6 @@ A Java console-based calculator application that performs basic arithmetic opera
 - Scanner Class
 - Conditional Statements
 - Switch Case
+
+## Author
+Swetha
